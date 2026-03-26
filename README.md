@@ -15,12 +15,11 @@
 
 ---
 
-### 📈 O que estou construindo?
-- **[Automação de Follow-up de Pedidos](https://github.com/arthurhydd-png/automation-followup-email):** Script para automação de e-mails via Gmail API, reduzindo em 90% o trabalho manual de cobrança de fornecedores.
+### 🚀 O que estou construindo?
+- **[Gravity Flow Design Studio](https://github.com/arthurhydd-png/gfds-webpage):** Desenvolvimento de infraestrutura web de alta performance. Foco em Core Web Vitals, design responsivo e arquitetura modular para entrega de landing pages de alta conversão.
+- **[Automação de Follow-up de Pedidos](https://github.com/arthurhydd-png/automation-followup-email):** Script em Google Apps Script para automação de e-mails via Gmail API, reduzindo em 90% o trabalho manual de cobrança de fornecedores.
 - **[SQL Auditoria Suporte](https://github.com/arthurhydd-png/sql-auditoria-suporte):** Repositório de consultas SQL para auditoria de sistemas, triagem de chamados críticos e diagnóstico de erros em suporte técnico N1/N2.
 - **Base de Conhecimento N1:** Documentação de boas práticas para suporte técnico e resolução de problemas de banco de dados.
-
----
 
 ### 📫 Como me encontrar
 - **LinkedIn:** [linkedin.com/in/arthur-raupp-0856693b8](https://www.linkedin.com/in/arthur-raupp-0856693b8/) 
