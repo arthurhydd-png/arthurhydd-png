@@ -20,7 +20,7 @@
 ---
 
 ### 🚀 What I'm Building
-- **[ETAPI-Automation-Core](https://github.com/arthurhydd-png/ETAPI-Automation-Core):** Enterprise-grade automation logic for customer onboarding via **Workato**. Features advanced **Ruby** scripts for data sanitization, VIP lead routing, and automated cloud provisioning.
+- **[ETAPI-Automation-Core](https://github.com/arthurhydd-png/ETAPI-Automation-Core-Workato):** Enterprise-grade automation logic for customer onboarding via **Workato**. Features advanced **Ruby** scripts for data sanitization, VIP lead routing, and automated cloud provisioning.
 - **[Gravity Flow Design Studio](https://github.com/arthurhydd-png/gfds-webpage):** High-performance web infrastructure focusing on Core Web Vitals and modular architecture for landing pages.
 - **[Order Follow-up Automation](https://github.com/arthurhydd-png/automation-followup-email):** Google Apps Script for automated supplier follow-ups via Gmail API, reducing manual workload by 90%.
 - **[SQL Audit & Support](https://github.com/arthurhydd-png/sql-auditoria-suporte):** Advanced SQL queries for system auditing, critical ticket triaging, and L1/L2 technical diagnostics.
