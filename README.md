@@ -1,29 +1,37 @@
-# Hi, I'm Arthur! 👋 
+# Hi, I'm Arthur! | Systems Analyst & Automation Explorer 🚀
 
-[Jump to Portuguese Summary / Pular para o Resumo em Português](#resumo-em-português)
+### 👨‍💻 Professional Profile
+I am a **Systems Analysis and Development** student at **PUCPR**, focusing on **Business Process Automation (BPA)** and modern software infrastructure. My goal is to build efficient workflows that connect business needs with scalable technical solutions.
 
-### 🚀 About Me
-- 🎓 **Systems Analysis and Development** student at **PUCPR**.
-- ⚙️ Focused on **Business Process Automation (BPA)** and **System Support (L1/L2)**.
-- 💡 Passionate about using technology to solve real-world business and logistics problems.
-- 🏆 Committed to **discipline over motivation** as the core of daily evolution.
+- ⚙️ **Focus:** Workflow Automation, Middleware Integration (Workato/n8n), and L1/L2 Technical Support.
+- 🏗️ **Learning Path:** Clean Code, API-first design, and Cloud Infrastructure (Vercel/Edge).
+- 🧠 **Philosophy:** Disciplined evolution and technical consistency over temporary motivation.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Ecosystem
 ![JavaScript](https://img.shields.io/badge/javascript-%2332333e.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google-apps-script&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google-apps-script&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-### 🚀 What I'm Building
-- **[ETAPI-Automation-Core](https://github.com/arthurhydd-png/ETAPI-Automation-Core-Workato):** Enterprise-grade automation logic for customer onboarding via **Workato**. Features advanced **Ruby** scripts for data sanitization, VIP lead routing, and automated cloud provisioning.
-- **[Gravity Flow Design Studio](https://github.com/arthurhydd-png/gfds-webpage):** High-performance web infrastructure focusing on Core Web Vitals and modular architecture for landing pages.
-- **[Order Follow-up Automation](https://github.com/arthurhydd-png/automation-followup-email):** Google Apps Script for automated supplier follow-ups via Gmail API, reducing manual workload by 90%.
-- **[SQL Audit & Support](https://github.com/arthurhydd-png/sql-auditoria-suporte):** Advanced SQL queries for system auditing, critical ticket triaging, and L1/L2 technical diagnostics.
+### 🏗️ Technical Projects & Prototypes
+
+* **[ETAPI - Automation Logic (PoC)](https://github.com/arthurhydd-png/ETAPI-Automation-Core-Workato):**
+    * *Description:* A Proof of Concept (PoC) for enterprise onboarding using **Workato**. 
+    * *Technical Insight:* Experimenting with **Ruby** for data sanitization and conditional logic for lead routing.
+* **[Gravity Flow Design Studio - Web Prototype](https://github.com/arthurhydd-png/gfds-webpage):**
+    * *Description:* Initial web infrastructure prototype exploring **Next.js** and **Vercel Edge Network**. 
+    * *Technical Insight:* Focused on testing Core Web Vitals and modular frontend components.
+* **[Supply Chain Follow-up Script](https://github.com/arthurhydd-png/automation-followup-email):**
+    * *Tech:* **Google Apps Script**, **Gmail API**.
+    * *Impact:* Logic designed to automate vendor follow-ups, aiming for a **90% reduction** in manual email overhead.
+* **[SQL Audit & Diagnostic Suite](https://github.com/arthurhydd-png/sql-auditoria-suporte):**
+    * *Description:* A collection of advanced SQL queries for system auditing and L2 technical support diagnostics.
 
 ### 📫 Connect with me
 - **LinkedIn:** [linkedin.com/in/arthur-raupp](https://www.linkedin.com/in/arthur-raupp-0856693b8/)
@@ -31,6 +39,5 @@
 
 ---
 
-<a name="resumo-em-português"></a>
 ## 🇧🇷 Resumo em Português
-Estudante de ADS na PUCPR focado em automação de processos de nível empresarial e suporte técnico avançado. Domino ferramentas de integração como **Workato** e linguagens como **Python**, **Ruby** e **SQL** para otimizar fluxos de trabalho, reduzir erros manuais e escalar operações de negócio. Atualmente desenvolvendo o motor de automação da **ETAPI**, focado em inteligência de dados e eficiência operacional.
+Analista de Sistemas em formação pela **PUCPR**, interessado em **Arquitetura de Automação** e eficiência operacional. Desenvolvo protótipos e provas de conceito (PoC) para validar fluxos de trabalho usando middlewares (Workato), scripts (Ruby/Python) e infraestrutura moderna (Vercel). Atualmente explorando lógica de integração para a **ETAPI** e focado em transformar requisitos de negócio em sistemas automatizados e escaláveis.
