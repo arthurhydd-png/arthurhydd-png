@@ -1,6 +1,6 @@
 # Hi, I'm Arthur! | Systems Analyst & Automation Explorer 🚀
 
-### 👨‍💻 Professional Profile
+### Professional Profile
 I am a **Systems Analysis and Development** student at **PUCPR**, focusing on **Business Process Automation (BPA)** and modern software infrastructure. My goal is to build efficient workflows that connect business needs with scalable technical solutions.
 
 - ⚙️ **Focus:** Workflow Automation, Middleware Integration (Workato/n8n), and L1/L2 Technical Support.
